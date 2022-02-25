@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tweets>
+  <Tweet>
+    <Text>Hello World...</Text>
+    <Time>14/10/2021 2:49:25 PM</Time>
+  </Tweet>
+  <Tweet>
+    <Text>Hello World...</Text>
+    <Time>15/10/2021 7:57:04 PM</Time>
+  </Tweet>
+  <Tweet>
+    <Text>I need help!!!, I coudn't seem to remember my barbers location near perth city and now Im lost.</Text>
+    <Time>15/10/2021 8:01:14 PM</Time>
+  </Tweet>
+</Tweets>

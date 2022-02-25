@@ -1,0 +1,263 @@
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\SignUp.g.cs
+C:\Users\ME ME BIG BOY\source\repos\WpfApp1\obj\Debug\SignUp.baml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\SignUp.g.cs
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\App.g.cs
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\SignUp.baml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\SocialMedia.g.cs
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\SocialMedia.baml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Autofac.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Facebook.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.AsyncEx.Context.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.Disposables.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Core.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Security.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Autofac.pdb
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Autofac.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Facebook.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.AsyncEx.Context.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.Disposables.pdb
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.Disposables.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Reflection.TypeExtensions.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.pdb
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Controllers.pdb
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Core.pdb
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Credentials.pdb
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Factories.pdb
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Logic.pdb
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Security.pdb
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Streams.pdb
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.WebLogic.pdb
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Discord.Net.Commands.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Discord.Net.Core.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Discord.Net.Rest.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Interactive.Async.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Linq.Async.dll
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Discord.Net.Commands.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Discord.Net.Core.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Discord.Net.Rest.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Interactive.Async.xml
+C:\Users\lachl\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Linq.Async.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\SignUp.g.cs
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\SocialMedia.g.cs
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\viewContributors.g.cs
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Autofac.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Facebook.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.AsyncEx.Context.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.Disposables.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Interactive.Async.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Linq.Async.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Core.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Security.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Autofac.pdb
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Autofac.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Facebook.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.AsyncEx.Context.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.Disposables.pdb
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Nito.Disposables.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Interactive.Async.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Linq.Async.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Reflection.TypeExtensions.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.pdb
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Controllers.pdb
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Core.pdb
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Credentials.pdb
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Factories.pdb
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Logic.pdb
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Security.pdb
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.Streams.pdb
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\bin\Debug\Tweetinvi.WebLogic.pdb
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\SignUp.baml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\SocialMedia.baml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\viewContributors.baml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\Facebook.g.cs
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\Facebookinfo.g.cs
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\Facebook.baml
+C:\Users\ME ME BIG BOY\OneDrive\Desktop\UNI\Yr3 Sem 1\ICT365\WpfApp1\obj\Debug\Facebookinfo.baml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\WpfApp1.exe.config
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\WpfApp1.exe
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\WpfApp1.pdb
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Autofac.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Facebook.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Nito.AsyncEx.Context.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Nito.Disposables.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Buffers.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Interactive.Async.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Linq.Async.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Memory.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Core.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Security.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Autofac.pdb
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Autofac.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Facebook.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Nito.AsyncEx.Context.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Nito.Disposables.pdb
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Nito.Disposables.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Buffers.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Interactive.Async.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Linq.Async.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Memory.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Reflection.TypeExtensions.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.pdb
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Controllers.pdb
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Core.pdb
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Credentials.pdb
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Factories.pdb
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Logic.pdb
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Security.pdb
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.Streams.pdb
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\bin\Debug\Tweetinvi.WebLogic.pdb
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\SignUp.g.cs
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\viewContributors.g.cs
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\App.g.cs
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\SignUp.baml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\viewContributors.baml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\WpfApp1.g.resources
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\WpfApp1.exe
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\WpfApp1.pdb
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\TwitterUI.g.cs
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\TwitterUI.baml
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\MainWindow.g.cs
+C:\Users\Juliver\OneDrive\Documents\Murdoch2021S2\ICT365\Ass2\WPF_ICT365_.NET-main\obj\Debug\MainWindow.baml

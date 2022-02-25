@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contributors>
+  <Contributor>
+    <FirstName>Juliver</FirstName>
+    <LastName>Ybarsabal</LastName>
+    <City>Perth</City>
+    <Phone>0481138999</Phone>
+    <Facebook>Yes</Facebook>
+    <Twitter>No</Twitter>
+    <Time>12pm - 6pm</Time>
+    <Weekend>Available for weekends</Weekend>
+    <Radius>10km</Radius>
+  </Contributor>
+  <Contributor>
+    <FirstName>Amba </FirstName>
+    <LastName>Navarro</LastName>
+    <City>Adelaide</City>
+    <Phone>0423467895</Phone>
+    <Twitter>Yes</Twitter>
+    <Time>24Hours</Time>
+    <Weekend>Available for weekends</Weekend>
+    <Radius>100km</Radius>
+  </Contributor>
+  <Contributor>
+    <FirstName>Luis</FirstName>
+    <LastName>Huff</LastName>
+    <City>Darwin</City>
+    <Phone>5052663860</Phone>
+    <Twitter>Yes</Twitter>
+    <Time>6am - 12pm</Time>
+    <Weekend>Available for weekends</Weekend>
+    <Radius>10km</Radius>
+  </Contributor>
+  <Contributor>
+    <FirstName>Damien</FirstName>
+    <LastName>Arias</LastName>
+    <City>Melbourne</City>
+    <Phone>3034833147</Phone>
+    <Twitter>Yes</Twitter>
+    <Time>6am - 12pm</Time>
+    <Weekend>Available for weekends</Weekend>
+    <Radius>25km</Radius>
+  </Contributor>
+  <Contributor>
+    <FirstName>Chantal</FirstName>
+    <LastName>Hurley</LastName>
+    <City>Canberra</City>
+    <Phone>5822823209</Phone>
+    <Twitter>Yes</Twitter>
+    <Time>6am - 12pm</Time>
+    <Weekend>Not available for weekends</Weekend>
+    <Radius>100km</Radius>
+  </Contributor>
+  <Contributor>
+    <FirstName>Margaret</FirstName>
+    <LastName>Betts</LastName>
+    <City>Hobart</City>
+    <Phone>2208195519</Phone>
+    <Twitter>Yes</Twitter>
+    <Time>12pm - 6pm</Time>
+    <Weekend>Available for weekends</Weekend>
+    <Radius>100km</Radius>
+  </Contributor>
+</Contributors>
